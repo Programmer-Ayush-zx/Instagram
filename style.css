@@ -1,0 +1,145 @@
+body{
+    background-color: white;
+    display: block;
+
+}
+.header{
+    width: 60%;
+    height: 15%;
+    position: absolute;
+    top: 8%;
+    left: 20%;
+}
+.container{
+    position: absolute;
+    width: 80%;
+    height: 60%;
+    top: 5%;
+    left: 10%;
+    display: block;
+
+}
+.user{
+    width: 80%;
+    height:6%;
+    background-color: whitesmoke;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    position: absolute;
+    top: 30%;
+    left: 8%;
+}
+.pass{
+    width: 80%;
+    height:6%;
+    background-color: whitesmoke;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    position: absolute;
+    top: 38%;
+    left: 8%;
+}
+.show{
+    position: absolute;
+    top: 38.4%;
+    left: 80%;
+    width: 9%;
+    height: 6%;
+
+}
+.log{
+    background-color: #3aadfa;
+    border: none;
+    border-radius: 5px;
+    font-size: large;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    width: 80%;
+    height: 7%;
+    position: absolute;
+    top: 48%;
+    left: 8%;
+
+}
+.thr{
+    width:80%;
+    background-color: lightgray;
+    color: lightgrey;
+    position: absolute;
+    top: 60%;
+    left: 8%;
+}
+.or{
+    position: absolute;
+    top: 58%;
+    left: 45%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    background-color: white;
+    font-size: 100%;
+    border: #3aadfa;
+}
+.facebook{
+    width: 6%;
+    height: 4%;
+    position: absolute;
+    top: 68%;
+    left: 13%;
+
+}
+.login{
+    position: absolute;
+    top: 66%;
+    left: 23%;
+    color: #465993;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: smaller;
+}
+.frgt{
+    position: absolute;
+    top: 74%;
+    left: 25%;
+    color: #465993;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: normal;
+}
+.lo{
+    position: absolute;
+    top: 94%;
+    left: 15%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+}
+.lolink{
+    position: absolute;
+    top: 96.5%;
+    left: 58%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    font-weight: bold;
+    color: #3aadfa;
+    text-decoration: none;
+}
+.att{
+    color: rgb(110, 110, 110);
+    text-orientation: upright;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    position: absolute;
+    top: 135%;
+    left: 5%;
+    text-decoration: none;
+
+}
+.at{
+    color: rgb(110, 110, 110);
+    text-orientation: upright;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    position: absolute;
+    top: 140%;
+    left: 17%;
+    text-decoration: none;
+}
